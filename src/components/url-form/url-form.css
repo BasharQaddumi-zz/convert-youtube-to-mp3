@@ -1,5 +1,19 @@
 .container {
-    background: rgb(189, 69, 13);
-    width: 400px;
-    height: 400px;
+    padding-top: 10%;
+}
+
+.btn {
+    background: #FF0080;
+    color: white;
+}
+
+.form-control {
+    border: 1px solid #FF0080;
+}
+
+.color-card {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    float: left;
 }
