@@ -1,0 +1,12 @@
+.footer {
+   
+    width: 100%;
+    height: auto;
+    background: rgb(0, 0,0, .5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.socialIcon {
+    margin: 10px;
+}

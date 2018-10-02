@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import { UrlForm } from './components';
+import View from './containers/view/view';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <UrlForm />
+        <View />
       </div>
     );
   }

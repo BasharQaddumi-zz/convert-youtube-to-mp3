@@ -15,7 +15,6 @@
 .color-card {
     width: 20px;
     height: 20px;
-     float: left;
 }
 .color-card:hover{
     opacity: 0.5;
